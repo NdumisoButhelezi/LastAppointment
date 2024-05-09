@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "529258445292",
+    "project_id": "lastappointment-490db",
+    "storage_bucket": "lastappointment-490db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529258445292:android:a4ec297cfcd85cb58ca8c9",
+        "android_client_info": {
+          "package_name": "com.example.lastappointment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtwA6qURiadI2MMs61s5Z8r5P7jYKJj2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

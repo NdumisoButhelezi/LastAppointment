@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LastAppointment</string>
+    <string name="book_appointment">Book Appointment</string>
+    <string name="enter_your_symptoms">Enter your symptoms</string>
+    <string name="enter_your_email">Enter your email</string>
+</resources>
